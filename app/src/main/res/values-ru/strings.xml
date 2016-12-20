@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tuturu</string>
+    <string name="from_whence">Пункт отправления</string>
+    <string name="search_route">Найти рейс</string>
+    <string name="where_to">Пункт прибытия</string>
+    <string name="choose_date">Выберите дату</string>
+    <string name="country">СТРАНА</string>
+    <string name="city">ГОРОД</string>
+    <string name="station">СТАНЦИЯ</string>
+    <string name="searching_route">Поиск рейса</string>
+    <string name="about">О программе</string>
+    <string name="from_whence_city">Город отправления</string>
+    <string name="from_whence_country">Страна отправления</string>
+    <string name="from_whence_station">Станция отправления</string>
+    <string name="where_to_city">Город прибытия</string>
+    <string name="where_to_country">Страна прибытия</string>
+    <string name="where_to_station">Станция прибытия</string>
+</resources>

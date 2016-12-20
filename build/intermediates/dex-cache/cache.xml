@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.github.orhanobut/hawk/1.23/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="38c7a93b97bb39c7b731b6e4900c5830ae1fd935">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.orhanobut-hawk-1.23_b9ca40deb312e2dd05c59362fe6486869b9dd70d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_f251c754fffe420826bf642550a48d39a038c15b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_61aa0cbea46e30ed57f6e4abf54b51e4106c3d85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/io.realm/realm-android-library/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="15a3e65c92d3cde64c725dba8d590a1123d2d213">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.realm-realm-android-library-1.2.0_82c7a958312ecef39ffee8aacbbcb5b28fd4ac71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.getkeepsafe.relinker/relinker/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="264f0bc4c0680cfe7a60fea1f12a43f1ab48e7c8">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getkeepsafe.relinker-relinker-1.2.1_84f112cfe4dd0f9cc8a4b2d473f52045f9c82845/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa0431262979dc608b1645a18925250f7ecbcdd2">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8bce30bddee177a7d3dc81147ea9e2f3159a86de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_99b124c0d31aba8ebe43a249cca3ad63bd0bf26a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_7f5140253bd048788671be59b5db3ada50a8bda5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_9fc1f8afed1377a4a0752fd3d6c8cde01e13163f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f72668b0310c37f4e00414bc29c7fc4f686fd14c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/logging-interceptor-3.4.1_7f7f4652af48d88ad0790b3f07671ca6adc00d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_e5b9d8e4321ed1d0a447a3696f2758812086d0dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c07fb99b729345908dda75fadbbf882e300631ff">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b0a02f8bc6905a64e2e46c2bde9c927e7b551221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9fc69c9eb208228b7feef1d3108ef28a16cc3abf">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.3.0_49fd676c42502823b9dc2849bb54d5d12881a047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/io.realm/realm-annotations/1.2.0/5e4042f9e0d39e0d01d4a8661d01e24995b2cbef/realm-annotations-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5e4042f9e0d39e0d01d4a8661d01e24995b2cbef">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/realm-annotations-1.2.0_fedd71829859c6367c60463ac46ffe2f42782817/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/me.drakeet.materialdialog/library/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8646b1e69dd5d923d8866dc4311859f0fbca456c">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.drakeet.materialdialog-library-1.2.2_ac3664178cc08ece9cc7c8efac1c8c99198e405c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_fba17bd87c788266a098a24ff1be15d83bbe8507/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_2f0b0ee5a7600f24201d2c9781c4900944b7fcbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/adapter-rxjava-2.1.0_f83b79a59e5bb941f6540700f65e8adaf3cd5d53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_0785e1acaaae6bfa72b3687651a8157f0d40bfc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ef7b07625edc8cf32a6cc27819dd97e9b1559411/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.3.0/e1707f3752463c5d240f427240a54762d7b60474/butterknife-annotations-8.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e1707f3752463c5d240f427240a54762d7b60474">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.3.0_5d3e6d6609857324798610189825a84ba68cd140/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="362b070536986f3d164242f35fa106fa8178aafb">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ce9dfa1071bce9ae3bec13a26dd4625906ba4fd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.10/2ac360e8a47601a8dfd044e646f05b99d151f2e0/rxjava-1.1.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2ac360e8a47601a8dfd044e646f05b99d151f2e0">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.10_874d3053d305b6bb111a7879c61b062a1214537a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_3e605bccb23bab672fd3f006c62ac9d2b80cca9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dcea87b614faf7cf2be9fc86bb77ae332c1cea3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/ru.arturvasilov/sqlite-bindings/0.1.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b61336936f403249c912e46bcc21c0aaf092f055">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/ru.arturvasilov-sqlite-bindings-0.1.2_e5477b011a2869ffe571ad2c2fe4d5b6b3fa2bef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_52ec6427543977b6db2d46a0a08d7889cf8253fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_504f9ac537797266dc7e862f0ba88b62df021f3c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-v13/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e3c7e8ff9f476d0d93ee7b046fbe8037a2b822c0">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.2.1_dddc49f9470be11bf0d7aee0d1f669f1be1d8c86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_ddb3eeee5773c5d564325e8ec804d3b65ee1e9d7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_e99dcea8cbf176ea93c3a5c5ae0ff9c80ae2d764/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.1_a8726072c7021693b3931262e85bc223ec95478d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_289e31318da50f0b2ff07b489d40a4101939ecf0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_999b7362d6bb90d124d416e77cf106407133b4a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_e6896d82b125620aa4add290c81666b38174615c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_a5881c707b9fdfecf9bdef3b80ae1320987307bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_f4bc87cf51f3ce6b4574161e95ca64e1f7e74d6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_7147afd4a2c771a431258dcbeb9c8dc29f5b879e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/mikes/dev/Tuturu/app/build/intermediates/exploded-aar/ru.arturvasilov/sqlite/0.1.7/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="78aa31419aa81d00ca15c8ef156f76f55ae1ca7c">
+        <dex dex="/home/mikes/dev/Tuturu/app/build/intermediates/transforms/dex/debug/folders/1000/10/ru.arturvasilov-sqlite-0.1.7_73448df6a7ba5bc88810fca20f75f0189c5c8790/classes.dex" />
+    </item>
+
+</items>

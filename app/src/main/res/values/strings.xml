@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tuturu</string>
+    <string name="from_whence">From whence</string>
+    <string name="where_to">Where to</string>
+    <string name="search_route">SEARCH ROUTE</string>
+    <string name="choose_date">Choose date</string>
+    <string name="country">COUNTRY</string>
+    <string name="city">CITY</string>
+    <string name="station">STATION</string>
+    <string name="searching_route">Searching route</string>
+    <string name="about">About</string>
+    <string name="from_whence_city">From whence city</string>
+    <string name="from_whence_country">From whence country</string>
+    <string name="from_whence_station">From whence station</string>
+    <string name="where_to_city">Where to city</string>
+    <string name="where_to_country">Where to country</string>
+    <string name="where_to_station">Where to station</string>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+</resources>
